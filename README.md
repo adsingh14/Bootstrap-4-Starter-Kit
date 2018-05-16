@@ -1,8 +1,8 @@
 ## README
-### Bootstrap 4.1.0(Stable) + FontAwesome 4.7.0 Starter Kit 
+### Bootstrap 4.1.1(Stable) + FontAwesome 4.7.0 Starter Kit 
 ---
 #### What's inside?
-* Bootstrap 4.1
+* Bootstrap 4.1.1
 * Font Awesome 4.7.0
 * jQuery
 * Popper.js

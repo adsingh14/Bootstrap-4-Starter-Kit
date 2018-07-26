@@ -18,6 +18,6 @@ Just clone the git via Terminal or Git Bash:
 
 Download the `.zip` file directly.
 
-**PS**: I will update it on it's stable release.
+**PS**: I will update it just after stable release.
 
 **_Thanks for downloading!_**

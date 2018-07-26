@@ -1,9 +1,9 @@
 ## README
-### Bootstrap 4.1.2(Stable) + FontAwesome 5.1 Starter Kit
+### Bootstrap 4.1.3(Stable) + FontAwesome 5.1 Starter Kit
 ---
 #### What's inside ?
 * Offline & CDN version.
-* Bootstrap 4.1.2
+* Bootstrap 4.1.3
 * Font Awesome 5.1 (also supported v4)
 * jQuery
 * Popper.js

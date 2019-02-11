@@ -9,8 +9,8 @@ This boilerplate includes both offline & online(CDN) version of Bootstrap 4 alon
 ### What's inside
 
 * Offline & CDN version of
-  * Bootstrap 4.2.1
-  * Font Awesome 5.6.3
+  * Bootstrap 4.3.0
+  * Font Awesome 5.7.1
   * jQuery
   * Popper.js
 
@@ -34,7 +34,7 @@ Download the `.zip` file directly.
 
 ### Useful Resources
 
-* [Bootstrap 4 Official Documentation](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
+* [Bootstrap 4 Official Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 * [Font Awesome 5 - Icon Finder](https://fontawesome.com/icons)
 
 

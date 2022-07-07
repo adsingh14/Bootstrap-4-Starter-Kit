@@ -33,4 +33,4 @@ Download the `.zip` file directly on your device.
 
 
 [^1]: [Bootstrap 4 Official Documentation](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
-[^2]: [Font Awesome 5 - Icon Finder](https://fontawesome.com/icons)
+[^2]: [Font Awesome 5 - Icon Finder](https://fontawesome.com/v5/search?m=free)

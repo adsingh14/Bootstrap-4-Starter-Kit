@@ -1,18 +1,18 @@
 ## Bootstrap 4(Stable) + FontAwesome 5 Starter Kit
----
+
 
 ### Overview
 
-This boilerplate includes both offline & online(CDN) version of Bootstrap 4 along with Font Awesome 5 (free version).
+This boilerplate includes both offline & online(CDN) version of Bootstrap 4 along with Font Awesome 5 (free).
 
 
 ### What's inside
 
 * Offline & CDN version of
-  * Bootstrap 4.6.0
+  * Bootstrap 4.6.1
   * Font Awesome 5.15.2
-  * jQuery 3.5.1
-  * Popper.js 2.4.0
+  * jQuery 3.5
+  * Popper.js 2.4
 
 
 ### Installation
@@ -35,7 +35,6 @@ Download the `.zip` file directly on your device.
 ### Resources
 
 * [Bootstrap 4 Official Documentation](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
-* [Bootstrap News & Announcements](https://blog.getbootstrap.com/)
 * [Font Awesome 5 - Icon Finder](https://fontawesome.com/icons)
 
 
